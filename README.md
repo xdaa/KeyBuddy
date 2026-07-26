@@ -12,7 +12,7 @@ macOS 菜单栏小工具：**单独敲一下 Shift 键，快速切换中英文�
 
 ## 安装
 
-从 [Releases](../../releases) 下载最新版本，将 `KeyBuddy.app` 拖入 `/Applications`。
+Xcode 打开 `KeyBuddy.xcodeproj`，Archive 后导出 `KeyBuddy.app`，拖入 `/Applications`。
 
 ## 使用
 
