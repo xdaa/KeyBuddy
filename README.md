@@ -1,4 +1,4 @@
-# KeyBuddy
+# KeyBuddy — 古法编程
 
 macOS 菜单栏小工具：**单独敲一下 Shift 键，快速切换中英文输入法**。
 
